@@ -157,20 +157,21 @@ a {
 }
 
 .navbar-mobile-sidebar {
-  display: none;
   border-radius: 0px;
-  position: absolute;
+  position: fixed;
   top: 70px;
   right: 0;
   z-index: 100;
   width: 50%;
   background-color: rgba(193, 173, 172, 0.9);
   transform: translateY(-0px);
+  transform: translateX(100%);
   cursor: auto;
+  transition: transform 0.4s ease-in-out;
 }
 
 .change > .navbar-mobile-sidebar {
-  display: block;
+  transform: translateX(0px);
 }
 
 .mobile-sidebar {
