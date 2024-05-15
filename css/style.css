@@ -30,7 +30,7 @@ a {
 /* section 1 -------- nav bar ------------ for pc size */
 
 .navbar-pc {
-  background-image: url(/images/img1.jpeg);
+  /* background-image: url(/images/img1.jpeg); */
   background-repeat: repeat-x;
   background-size: 1500px 20px;
 }
