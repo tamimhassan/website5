@@ -1,8 +1,21 @@
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
     <loc>https://tamimhassan.github.io/website5/</loc>
-    <!-- <lastmod>2024-05-01</lastmod>
-    <lchangefreq>monthly</lchangefreq>
-    <priority>0.8</priority> -->
     </url>
+    <url>
+    <loc>https://tamimhassan.github.io/website5/about.html</loc>
+    </url>
+    <url>
+    <loc>https://tamimhassan.github.io/website5/interests.html</loc>
+    </url>
+    <url>
+    <loc>https://tamimhassan.github.io/website5/work.html</loc>
+    </url>
+    <url>
+    <loc>https://tamimhassan.github.io/website5/experience.html</loc>
+    </url>
+    <url>
+    <loc>https://tamimhassan.github.io/website5/contact.html</loc>
+    </url>
+
 </urlset>
